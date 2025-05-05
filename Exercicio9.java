@@ -1,4 +1,6 @@
-Scanner scanner = new Scanner(System.in);
+public class App {
+    public static void main(String[] args) throws Exception {
+       Scanner scanner = new Scanner(System.in);
 
         int[] vetor1 = new int[6];
         int[] vetor2 = new int[6];
